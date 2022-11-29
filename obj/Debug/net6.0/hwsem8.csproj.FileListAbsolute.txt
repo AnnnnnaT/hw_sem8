@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C\hws\hwsem8\bin\Debug\net6.0\hwsem8.exe
+C:\Users\User\Desktop\C\hws\hwsem8\bin\Debug\net6.0\hwsem8.deps.json
+C:\Users\User\Desktop\C\hws\hwsem8\bin\Debug\net6.0\hwsem8.runtimeconfig.json
+C:\Users\User\Desktop\C\hws\hwsem8\bin\Debug\net6.0\hwsem8.dll
+C:\Users\User\Desktop\C\hws\hwsem8\bin\Debug\net6.0\hwsem8.pdb
+C:\Users\User\Desktop\C\hws\hwsem8\obj\Debug\net6.0\hwsem8.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C\hws\hwsem8\obj\Debug\net6.0\hwsem8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C\hws\hwsem8\obj\Debug\net6.0\hwsem8.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C\hws\hwsem8\obj\Debug\net6.0\hwsem8.AssemblyInfo.cs
+C:\Users\User\Desktop\C\hws\hwsem8\obj\Debug\net6.0\hwsem8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C\hws\hwsem8\obj\Debug\net6.0\hwsem8.dll
+C:\Users\User\Desktop\C\hws\hwsem8\obj\Debug\net6.0\refint\hwsem8.dll
+C:\Users\User\Desktop\C\hws\hwsem8\obj\Debug\net6.0\hwsem8.pdb
+C:\Users\User\Desktop\C\hws\hwsem8\obj\Debug\net6.0\hwsem8.genruntimeconfig.cache
+C:\Users\User\Desktop\C\hws\hwsem8\obj\Debug\net6.0\ref\hwsem8.dll
